@@ -1,0 +1,10 @@
+{
+  "includePaths": [
+    ".meteor/local/build/programs/server/assets/packages/juliancwirko_zf5/scss/"
+  ],
+  "enableAutoprefixer": true,
+  "autoprefixerOptions": {
+    "browsers": ["last 2 versions"],
+    "cascade": false
+  }
+}

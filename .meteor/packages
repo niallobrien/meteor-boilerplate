@@ -1,0 +1,49 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+reactive-var
+accounts-password
+accounts-ui
+fastclick
+kadira:flow-router
+kadira:blaze-layout
+meteorhacks:fast-render
+aldeed:collection2
+aldeed:autoform
+aldeed:template-extension
+matb33:collection-hooks
+dburles:collection-helpers
+reywood:publish-composite
+alanning:roles
+mizzao:user-status
+ongoworks:security
+anti:fake
+meteorhacks:subs-manager
+percolate:paginated-subscription
+useraccounts:flow-routing
+zimme:active-route
+arillo:flow-router-helpers
+meteortoys:allthings
+flemay:less-autoprefixer
+browser-policy
+stylus
+useraccounts:foundation
+juliancwirko:zf5
+fourseven:scss

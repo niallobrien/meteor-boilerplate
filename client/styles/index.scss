@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@import "normalize.scss";
+
+//local Foundation settings file. Copy it from git repo -> scss/foundation/_settings.scss near main .scss file. Then Uncomment the line below.
+// @import "settings"
+
+@import "foundation/components/grid.scss";
+@import "foundation/components/accordion.scss";
+@import "foundation/components/alert-boxes.scss";
+@import "foundation/components/block-grid.scss";
+@import "foundation/components/breadcrumbs.scss";
+@import "foundation/components/button-groups.scss";
+@import "foundation/components/buttons.scss";
+@import "foundation/components/clearing.scss";
+@import "foundation/components/dropdown.scss";
+@import "foundation/components/dropdown-buttons.scss";
+@import "foundation/components/flex-video.scss";
+@import "foundation/components/forms.scss";
+@import "foundation/components/icon-bar.scss";
+@import "foundation/components/inline-lists.scss";
+@import "foundation/components/joyride.scss";
+@import "foundation/components/keystrokes.scss";
+@import "foundation/components/labels.scss";
+@import "foundation/components/magellan.scss";
+@import "foundation/components/orbit.scss";
+@import "foundation/components/pagination.scss";
+@import "foundation/components/panels.scss";
+@import "foundation/components/pricing-tables.scss";
+@import "foundation/components/progress-bars.scss";
+@import "foundation/components/range-slider.scss";
+@import "foundation/components/reveal.scss";
+@import "foundation/components/side-nav.scss";
+@import "foundation/components/split-buttons.scss";
+@import "foundation/components/sub-nav.scss";
+@import "foundation/components/switches.scss";
+@import "foundation/components/tables.scss";
+@import "foundation/components/tabs.scss";
+@import "foundation/components/thumbs.scss";
+@import "foundation/components/tooltips.scss";
+@import "foundation/components/top-bar.scss";
+@import "foundation/components/type.scss";
+@import "foundation/components/offcanvas.scss";
+@import "foundation/components/visibility.scss";
+
+// your project styles goes here
