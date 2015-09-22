@@ -1,0 +1,1 @@
+{"head":"","body":"","js":"\nTemplate.__checkName(\"private\");\nTemplate[\"private\"] = new Template(\"Template.private\", (function() {\n  var view = this;\n  return HTML.Raw('<div class=\"container\">\\n    <div class=\"text-center\">\\n      <h1>This is private stuff!</h1>\\n    </div>\\n  </div>');\n}));\n","bodyAttrs":{}}

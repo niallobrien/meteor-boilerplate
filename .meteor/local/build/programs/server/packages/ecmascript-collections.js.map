@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/packages/ecmascript-collections/collections.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA;AACA;AACA;AACA,yE","file":"/packages/ecmascript-collections.js","sourcesContent":["var collections = Npm.require(\"ecmascript-collections\");\nMap = collections.Map;\nSet = collections.Set;\n"]}

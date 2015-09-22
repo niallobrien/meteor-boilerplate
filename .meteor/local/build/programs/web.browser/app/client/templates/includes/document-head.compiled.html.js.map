@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/templates/includes/document-head.compiled.html.js"],"names":[],"mappings":"YAAA;AACA;AACA;AACA;AACA;AACA","file":"/client/templates/includes/document-head.compiled.html.js","sourcesContent":["\nTemplate.body.addContent((function() {\n  var view = this;\n  return \"\";\n}));\nMeteor.startup(Template.body.renderToDocument);\n"]}

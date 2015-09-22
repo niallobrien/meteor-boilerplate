@@ -1,0 +1,47 @@
+/* Imports for global scope */
+
+MongoInternals = Package.mongo.MongoInternals;
+Mongo = Package.mongo.Mongo;
+Tracker = Package.tracker.Tracker;
+Deps = Package.tracker.Deps;
+Log = Package.logging.Log;
+Random = Package.random.Random;
+EJSON = Package.ejson.EJSON;
+Spacebars = Package.spacebars.Spacebars;
+check = Package.check.check;
+Match = Package.check.Match;
+ReactiveVar = Package['reactive-var'].ReactiveVar;
+FlowRouter = Package['kadira:flow-router'].FlowRouter;
+BlazeLayout = Package['kadira:blaze-layout'].BlazeLayout;
+FastRender = Package['meteorhacks:fast-render'].FastRender;
+CollectionHooks = Package['matb33:collection-hooks'].CollectionHooks;
+Roles = Package['alanning:roles'].Roles;
+UserStatus = Package['mizzao:user-status'].UserStatus;
+Security = Package['ongoworks:security'].Security;
+Fake = Package['anti:fake'].Fake;
+SubsManager = Package['meteorhacks:subs-manager'].SubsManager;
+ActiveRoute = Package['zimme:active-route'].ActiveRoute;
+Astro = Package['jagi:astronomy'].Astro;
+Astronomy = Package['jagi:astronomy'].Astronomy;
+Validators = Package['jagi:astronomy-validators'].Validators;
+Meteor = Package.meteor.Meteor;
+WebApp = Package.webapp.WebApp;
+main = Package.webapp.main;
+WebAppInternals = Package.webapp.WebAppInternals;
+_ = Package.underscore._;
+DDP = Package['ddp-client'].DDP;
+DDPServer = Package['ddp-server'].DDPServer;
+LaunchScreen = Package['launch-screen'].LaunchScreen;
+Blaze = Package.ui.Blaze;
+UI = Package.ui.UI;
+Handlebars = Package.ui.Handlebars;
+Accounts = Package['accounts-base'].Accounts;
+AccountsServer = Package['accounts-base'].AccountsServer;
+SimpleSchema = Package['aldeed:simple-schema'].SimpleSchema;
+MongoObject = Package['aldeed:simple-schema'].MongoObject;
+AccountsTemplates = Package['useraccounts:core'].AccountsTemplates;
+BrowserPolicy = Package['browser-policy-common'].BrowserPolicy;
+Autoupdate = Package.autoupdate.Autoupdate;
+HTML = Package.htmljs.HTML;
+T9n = Package['softwarerero:accounts-t9n'].T9n;
+
