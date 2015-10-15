@@ -1,46 +1,49 @@
 @charset "UTF-8";
 
-@import "normalize.scss";
+@import "{juliancwirko:zf5}/scss/normalize.scss";
 
-//local Foundation settings file. Copy it from git repo -> scss/foundation/_settings.scss near main .scss file. Then Uncomment the line below.
+//local Foundation settings file. You can overwrite the settings here. Copy it from git repo -> scss/foundation/_settings.scss near main .scss file. Replace the functions path with '{juliancwirko:zf5}/scss/foundation/functions' Then Uncomment the line below:
 // @import "settings"
 
-@import "foundation/components/grid.scss";
-@import "foundation/components/accordion.scss";
-@import "foundation/components/alert-boxes.scss";
-@import "foundation/components/block-grid.scss";
-@import "foundation/components/breadcrumbs.scss";
-@import "foundation/components/button-groups.scss";
-@import "foundation/components/buttons.scss";
-@import "foundation/components/clearing.scss";
-@import "foundation/components/dropdown.scss";
-@import "foundation/components/dropdown-buttons.scss";
-@import "foundation/components/flex-video.scss";
-@import "foundation/components/forms.scss";
-@import "foundation/components/icon-bar.scss";
-@import "foundation/components/inline-lists.scss";
-@import "foundation/components/joyride.scss";
-@import "foundation/components/keystrokes.scss";
-@import "foundation/components/labels.scss";
-@import "foundation/components/magellan.scss";
-@import "foundation/components/orbit.scss";
-@import "foundation/components/pagination.scss";
-@import "foundation/components/panels.scss";
-@import "foundation/components/pricing-tables.scss";
-@import "foundation/components/progress-bars.scss";
-@import "foundation/components/range-slider.scss";
-@import "foundation/components/reveal.scss";
-@import "foundation/components/side-nav.scss";
-@import "foundation/components/split-buttons.scss";
-@import "foundation/components/sub-nav.scss";
-@import "foundation/components/switches.scss";
-@import "foundation/components/tables.scss";
-@import "foundation/components/tabs.scss";
-@import "foundation/components/thumbs.scss";
-@import "foundation/components/tooltips.scss";
-@import "foundation/components/top-bar.scss";
-@import "foundation/components/type.scss";
-@import "foundation/components/offcanvas.scss";
-@import "foundation/components/visibility.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/grid.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/accordion.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/alert-boxes.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/block-grid.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/breadcrumbs.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/button-groups.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/buttons.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/clearing.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/dropdown.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/dropdown-buttons.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/flex-video.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/forms.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/icon-bar.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/inline-lists.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/joyride.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/keystrokes.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/labels.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/magellan.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/orbit.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/pagination.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/panels.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/pricing-tables.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/progress-bars.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/range-slider.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/reveal.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/side-nav.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/split-buttons.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/sub-nav.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/switches.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/tables.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/tabs.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/thumbs.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/tooltips.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/top-bar.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/type.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/offcanvas.scss";
+@import "{juliancwirko:zf5}/scss/foundation/components/visibility.scss";
+
+// instead importing partials you can import all in one import. If you want to do this remove all imports above and uncomment the one below
+// @import "{juliancwirko:zf5}/scss/foundation.scss";
 
 // your project styles goes here

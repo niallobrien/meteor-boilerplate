@@ -46,7 +46,7 @@ email@1.0.7
 fastclick@1.0.7
 flemay:less-autoprefixer@1.1.0
 fortawesome:fontawesome@4.4.0
-fourseven:scss@3.2.0
+fourseven:scss@3.4.0-beta1
 geojson-utils@1.0.4
 hot-code-push@1.0.0
 html-tools@1.0.5
@@ -59,7 +59,7 @@ jagi:astronomy-relations@0.1.2
 jagi:astronomy-validators@0.10.10
 jagi:reactive-map@0.2.3
 jquery@1.11.4
-juliancwirko:zf5@1.0.4
+juliancwirko:zf5@2.0.1
 kadira:blaze-layout@2.1.0
 kadira:flow-router@2.6.1
 lai:collection-extensions@0.1.4
